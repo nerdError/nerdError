@@ -1,5 +1,5 @@
-### 🔭 I’m currently working on a new game Dualforce Idle (Construct 3, TypeScript)
-### Check my Discord community: https://discord.gg/aU2gPUf4K8
+### 🔭 I’m currently working on a new games with Construct 3 + TypeScript
+### More info in my Discord server: https://discord.gg/aU2gPUf4K8
 
 <!--
 **nerdError/nerdError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

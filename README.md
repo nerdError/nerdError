@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on a new games with Construct 3 + TypeScript
+### 🔭 I’m currently working on new games with Construct 3 + TypeScript
 ### More info in my Discord server: https://discord.gg/aU2gPUf4K8
 
 <!--
